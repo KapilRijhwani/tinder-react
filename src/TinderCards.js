@@ -1,4 +1,4 @@
-import { Person } from "@material-ui/icons";
+// import { Person } from "@material-ui/icons";
 import React, { useEffect, useState } from "react";
 import TinderCard from "react-tinder-card";
 import "./TinderCards.css";

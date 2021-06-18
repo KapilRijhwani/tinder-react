@@ -3,10 +3,9 @@ import Header from "./Header";
 import TinderCards from "./TinderCards";
 import SwipeButtons from "./SwipeButtons";
 // using ES6 modules
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import PersonalPage from "./PersonalPage";
 import ChatPage from "./ChatPage";
-
 function App() {
   return (
     <div className="App">
